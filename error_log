@@ -1,0 +1,93 @@
+[24-Jan-2016 14:51:39 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 25
+[24-Jan-2016 14:51:45 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 25
+[24-Jan-2016 14:52:39 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 52
+[24-Jan-2016 14:52:39 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/include/closeDB.php on line 2
+[24-Jan-2016 14:53:25 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 't^h^u^g^555'@'localhost' (using password: YES) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/include/connectDB.php on line 2
+[24-Jan-2016 14:55:58 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 52
+[24-Jan-2016 15:38:28 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 51
+[24-Jan-2016 15:39:30 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 13
+[24-Jan-2016 15:40:08 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 13
+[24-Jan-2016 15:40:08 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 52
+[24-Jan-2016 15:40:45 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 13
+[24-Jan-2016 15:42:31 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 13
+[24-Jan-2016 15:42:31 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 53
+[24-Jan-2016 15:44:15 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 13
+[24-Jan-2016 15:44:15 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 53
+[24-Jan-2016 15:44:53 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 13
+[24-Jan-2016 15:44:53 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 53
+[24-Jan-2016 15:47:53 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 6
+[24-Jan-2016 15:58:18 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 6
+[24-Jan-2016 16:00:43 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 6
+[24-Jan-2016 16:05:29 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 8
+[24-Jan-2016 16:12:11 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunShowEvents.php on line 8
+[26-Jan-2016 09:52:22 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/index_anton.php on line 30
+[26-Jan-2016 09:53:53 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/index_anton.php on line 30
+[26-Jan-2016 09:53:56 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/index_anton.php on line 30
+[26-Jan-2016 10:18:32 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/index_anton.php on line 30
+[28-Jan-2016 16:26:30 America/Denver] PHP Warning:  include(GIVE_gunmap_events.php): failed to open stream: No such file or directory in /home/greenbj6/public_html/dev_sites/gunapp_dev02/index_centerUSAb.php on line 2
+[28-Jan-2016 16:26:30 America/Denver] PHP Warning:  include(GIVE_gunmap_events.php): failed to open stream: No such file or directory in /home/greenbj6/public_html/dev_sites/gunapp_dev02/index_centerUSAb.php on line 2
+[28-Jan-2016 16:26:30 America/Denver] PHP Warning:  include(): Failed opening 'GIVE_gunmap_events.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/greenbj6/public_html/dev_sites/gunapp_dev02/index_centerUSAb.php on line 2
+[07-Feb-2016 12:49:52 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 14
+[07-Feb-2016 12:51:19 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 14
+[07-Feb-2016 12:51:21 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 14
+[07-Feb-2016 13:04:10 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 14
+[07-Feb-2016 13:04:11 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 14
+[07-Feb-2016 13:07:56 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 14
+[07-Feb-2016 13:08:00 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 14
+[07-Feb-2016 13:08:02 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 14
+[07-Feb-2016 13:08:22 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 14
+[07-Feb-2016 13:08:24 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 14
+[07-Feb-2016 13:09:50 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 14
+[07-Feb-2016 13:09:50 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 41
+[07-Feb-2016 13:09:51 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 14
+[07-Feb-2016 13:09:51 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 41
+[07-Feb-2016 13:19:30 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 63
+[07-Feb-2016 13:19:31 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 63
+[07-Feb-2016 13:20:36 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 63
+[07-Feb-2016 13:20:37 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 63
+[07-Feb-2016 13:21:34 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 63
+[07-Feb-2016 13:21:35 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 63
+[07-Feb-2016 13:22:41 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 63
+[07-Feb-2016 13:22:42 America/Denver] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 63
+[07-Feb-2016 13:35:12 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 53
+[07-Feb-2016 13:35:17 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/GIVE_gunmap_events.php on line 53
+[20-Apr-2016 10:06:31 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 38
+[20-Apr-2016 10:15:03 America/Denver] PHP Parse error:  syntax error, unexpected '$gunShowId' (T_VARIABLE), expecting ']' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 20
+[20-Apr-2016 10:15:11 America/Denver] PHP Parse error:  syntax error, unexpected '$gunShowId' (T_VARIABLE), expecting ']' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 20
+[20-Apr-2016 10:15:13 America/Denver] PHP Parse error:  syntax error, unexpected '$gunShowId' (T_VARIABLE), expecting ']' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 20
+[20-Apr-2016 10:15:41 America/Denver] PHP Parse error:  syntax error, unexpected '$gunShowId' (T_VARIABLE), expecting ']' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 20
+[20-Apr-2016 12:02:08 America/Denver] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 73
+[20-Apr-2016 12:02:10 America/Denver] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 73
+[20-Apr-2016 12:02:13 America/Denver] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 73
+[20-Apr-2016 12:02:17 America/Denver] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 73
+[20-Apr-2016 12:03:01 America/Denver] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 73
+[20-Apr-2016 12:12:47 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 26
+[20-Apr-2016 12:13:22 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 26
+[20-Apr-2016 12:13:41 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 26
+[20-Apr-2016 12:13:42 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 26
+[20-Apr-2016 12:13:46 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 26
+[20-Apr-2016 12:13:48 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 26
+[20-Apr-2016 12:13:49 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 26
+[20-Apr-2016 14:06:58 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 26
+[21-Apr-2016 10:55:26 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 26
+[23-Apr-2016 13:14:17 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 26
+[23-Apr-2016 13:17:34 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 26
+[23-Apr-2016 13:17:42 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 26
+[23-Apr-2016 13:34:49 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 25
+[23-Apr-2016 13:34:51 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 25
+[23-Apr-2016 13:36:14 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 25
+[23-Apr-2016 13:36:15 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 25
+[23-Apr-2016 13:36:17 America/Denver] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 25
+[23-Apr-2016 13:50:30 America/Denver] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 24
+[23-Apr-2016 13:50:31 America/Denver] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 24
+[23-Apr-2016 13:51:39 America/Denver] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 24
+[23-Apr-2016 13:52:07 America/Denver] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 24
+[23-Apr-2016 13:52:08 America/Denver] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 24
+[23-Apr-2016 13:52:10 America/Denver] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 24
+[23-Apr-2016 13:56:00 America/Denver] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 25
+[23-Apr-2016 13:56:02 America/Denver] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 25
+[23-Apr-2016 13:56:23 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 36
+[23-Apr-2016 13:56:24 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 36
+[23-Apr-2016 13:56:43 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 36
+[23-Apr-2016 13:56:45 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 36
+[23-Apr-2016 13:57:56 America/Denver] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/greenbj6/public_html/dev_sites/gunapp_dev02/tempEventPage.php on line 25

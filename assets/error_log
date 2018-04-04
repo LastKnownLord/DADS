@@ -1,0 +1,72 @@
+[30-Mar-2016 11:48:19 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 22
+[30-Mar-2016 11:48:25 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 22
+[30-Mar-2016 11:48:37 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 22
+[30-Mar-2016 11:48:46 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 22
+[30-Mar-2016 11:54:05 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 22
+[30-Mar-2016 11:54:13 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 22
+[30-Mar-2016 11:54:25 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 22
+[30-Mar-2016 11:54:31 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 22
+[30-Mar-2016 11:58:01 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 22
+[30-Mar-2016 11:58:08 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 22
+[30-Mar-2016 11:58:14 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 22
+[30-Mar-2016 12:02:15 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 23
+[30-Mar-2016 12:02:21 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 23
+[30-Mar-2016 12:07:33 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 23
+[30-Mar-2016 12:07:40 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 23
+[30-Mar-2016 12:10:23 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 25
+[30-Mar-2016 12:10:30 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 25
+[30-Mar-2016 12:10:40 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 25
+[30-Mar-2016 12:10:46 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 25
+[30-Mar-2016 12:29:08 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 25
+[30-Mar-2016 12:29:16 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 25
+[30-Mar-2016 12:29:50 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 25
+[30-Mar-2016 12:29:58 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 25
+[30-Mar-2016 12:59:42 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 25
+[30-Mar-2016 12:59:53 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 25
+[30-Mar-2016 13:21:09 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 38
+[30-Mar-2016 13:23:07 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 38
+[30-Mar-2016 13:26:40 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 38
+[30-Mar-2016 13:34:03 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 38
+[02-Apr-2016 14:24:04 America/Denver] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 12
+[02-Apr-2016 14:24:21 America/Denver] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 12
+[02-Apr-2016 14:26:05 America/Denver] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 12
+[02-Apr-2016 14:26:18 America/Denver] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 12
+[02-Apr-2016 14:27:52 America/Denver] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 12
+[02-Apr-2016 14:28:23 America/Denver] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 12
+[02-Apr-2016 14:29:06 America/Denver] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 12
+[02-Apr-2016 14:31:06 America/Denver] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 12
+[02-Apr-2016 14:32:18 America/Denver] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 12
+[02-Apr-2016 15:05:40 America/Denver] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 12
+[02-Apr-2016 15:05:51 America/Denver] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 12
+[20-Apr-2016 10:34:47 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/tempEventPage.php on line 38
+[23-Apr-2016 15:14:19 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:19:24 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:24:41 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:26:50 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:28:51 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:30:12 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:30:40 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:33:24 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:34:57 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:36:39 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:37:57 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:39:23 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:39:53 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:41:35 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:44:21 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:44:24 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 15:57:40 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 16:00:42 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[23-Apr-2016 16:01:18 America/Denver] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, object given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/gunEventPage.php on line 39
+[07-May-2016 15:20:57 America/Denver] PHP Warning:  fwrite() expects parameter 2 to be string, array given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 44
+[07-May-2016 15:21:03 America/Denver] PHP Warning:  fwrite() expects parameter 2 to be string, array given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 44
+[07-May-2016 15:43:23 America/Denver] PHP Parse error:  syntax error, unexpected '$myfile' (T_VARIABLE) in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 44
+[07-May-2016 15:44:13 America/Denver] PHP Warning:  fwrite() expects parameter 1 to be resource, string given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 45
+[07-May-2016 15:44:18 America/Denver] PHP Warning:  fwrite() expects parameter 1 to be resource, string given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 45
+[07-May-2016 15:50:34 America/Denver] PHP Warning:  fwrite() expects parameter 1 to be resource, string given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 45
+[07-May-2016 15:54:52 America/Denver] PHP Warning:  fwrite() expects parameter 1 to be resource, string given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 45
+[07-May-2016 15:56:53 America/Denver] PHP Warning:  fwrite() expects parameter 1 to be resource, string given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 45
+[07-May-2016 15:56:57 America/Denver] PHP Warning:  fwrite() expects parameter 1 to be resource, string given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 45
+[07-May-2016 16:02:43 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 45
+[07-May-2016 16:05:06 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 45
+[07-May-2016 16:49:56 America/Denver] PHP Warning:  var_export() expects at most 2 parameters, 3 given in /home/greenbj6/public_html/dev_sites/gunapp_dev02/assets/getGunmapEvents.php on line 46

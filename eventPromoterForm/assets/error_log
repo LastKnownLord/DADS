@@ -1,0 +1,4 @@
+[30-May-2016 15:46:16 America/Denver] PHP Parse error:  syntax error, unexpected '$statement' (T_VARIABLE) in /home/greenbj6/public_html/dev_sites/gunapp/gunapp_Anton_dev/geoCodeAddress/assets/storeLatLong_tblEvents.php on line 37
+[30-May-2016 16:03:16 America/Denver] PHP Parse error:  syntax error, unexpected '$statement' (T_VARIABLE) in /home/greenbj6/public_html/dev_sites/gunapp/gunapp_Anton_dev/geoCodeAddress/assets/storeLatLong_tblEvents.php on line 36
+[30-May-2016 16:03:19 America/Denver] PHP Parse error:  syntax error, unexpected '$statement' (T_VARIABLE) in /home/greenbj6/public_html/dev_sites/gunapp/gunapp_Anton_dev/geoCodeAddress/assets/storeLatLong_tblEvents.php on line 36
+[30-May-2016 16:04:23 America/Denver] PHP Parse error:  syntax error, unexpected '$statement' (T_VARIABLE) in /home/greenbj6/public_html/dev_sites/gunapp/gunapp_Anton_dev/geoCodeAddress/assets/storeLatLong_tblEvents.php on line 36
